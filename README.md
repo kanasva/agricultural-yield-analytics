@@ -2,7 +2,7 @@
 
 This project was part of my study in the unit of Introduction to Data Science. The dataset was artificial generated about **agriculture** containing these features:
 
-<img src="features.png" alt="features" width="600"/>
+<img src="features.png" alt="features" width="650"/>
 
 The target of the analysis and prediction was **Yield**. I performed tasks and answered questions, most of which were provided by the lecturer, along with some additional queries of my own, including:
 
