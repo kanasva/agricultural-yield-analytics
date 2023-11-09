@@ -1,0 +1,121 @@
+Year,Location,Avg Min Temp *C,Yr Rain mm,Heat Wave,Dry Spell,Cold Wave,Wet Spell,Irrigation,Crop Type,Crop Damage,Yield,Observer
+1980,Emilyland,19.6,707.94118,No,No,Yes,No,Yes,Wheat,Yes,1287.55,Ryan Stewart
+1980,East Xavierport,23.000000000000004,615.4902599999999,No,No,Yes,No,Yes,Wheat,Yes,1426.41,Tracie Bell
+1980,North Daniel,21.000000000000007,1230.83066,No,No,No,No,No,Maize,No,796.92,Thomas Miller
+1981,Emilyland,19.899999999999995,852.3401799999999,No,No,Yes,No,Yes,Wheat,Yes,1305.04,Sara Nguyen
+1981,East Xavierport,23.199999999999996,591.4415399999999,No,No,Yes,No,Yes,Maize,Yes,1031.42,Tracie Bell
+1981,North Daniel,21.000000000000007,1337.1194999999998,No,No,No,No,No,Soy,No,1497.04,Tammy Calderon
+1982,Emilyland,19.899999999999995,762.6705599999999,No,No,Yes,No,Yes,Soy,Yes,1601.38,Sara Nguyen
+1982,East Xavierport,23.10000000000001,678.40098,No,No,Yes,No,Yes,Soy,Yes,1727.6,Amanda Reed
+1982,North Daniel,21.100000000000005,1378.86186,No,No,No,No,No,Soy,No,1496.62,Kevin Henry
+1983,Emilyland,20.299999999999997,810.13046,No,No,Yes,No,Yes,Maize,Yes,923.89,Sara Nguyen
+1983,East Xavierport,22.799999999999997,698.38062,No,No,Yes,No,Yes,Soy,Yes,1718.95,Emily Bernard
+1983,North Daniel,21.5,1301.23184,No,No,No,No,No,Soy,No,1493.5,Kevin Henry
+1984,Emilyland,20.4,916.6605999999999,No,No,Yes,No,Yes,Soy,Yes,1624.51,Sara Nguyen
+1984,East Xavierport,23.10000000000001,665.3910999999999,No,No,Yes,No,Yes,Wheat,Yes,1427.39,Noah Maldonado
+1984,North Daniel,21.399999999999995,1136.1318399999998,No,No,No,No,No,Maize,No,794.4,Kevin Henry
+1985,East Xavierport,23.199999999999996,644.39038,No,No,Yes,No,Yes,Soy,Yes,1730.43,Noah Maldonado
+1985,North Daniel,21.100000000000005,1270.12954,No,No,No,No,No,Wheat,No,1196.51,James Todd
+1985,Emilyland,20.100000000000005,1060.0512199999998,No,No,Yes,No,Yes,Soy,Yes,1614.46,Diana Jones
+1986,North Daniel,21.399999999999995,1247.26954,No,No,No,No,No,Wheat,No,1193.98,Patricia Lopez
+1986,Emilyland,20.799999999999997,830.67144,No,No,No,No,Yes,Maize,No,943.42,Diana Jones
+1986,East Xavierport,23.600000000000005,698.45936,No,No,No,No,Yes,Wheat,No,1442.34,Jennifer Patel
+1987,North Daniel,21.3,1418.6814399999998,No,No,No,No,No,Wheat,No,1195.31,Patricia Lopez
+1987,Emilyland,20.299999999999997,934.6107799999999,No,No,Yes,No,Yes,Soy,Yes,1621.46,Karina Newman
+1987,East Xavierport,23.199999999999996,637.97942,No,No,Yes,No,Yes,Soy,Yes,1729.5,Jennifer Patel
+1988,North Daniel,21.3,1459.81166,No,No,No,No,No,Soy,No,1494.91,William Wright
+1988,Emilyland,20.60000000000001,981.7912799999999,No,No,No,No,Yes,Soy,No,1635.82,John Martinez
+1988,East Xavierport,23.199999999999996,819.3709799999999,No,No,Yes,No,Yes,Wheat,Yes,1430.95,Jennifer Patel
+1989,North Daniel,21.399999999999995,1226.78952,No,No,No,No,No,Soy,No,1494.45,Jessica Hodges
+1989,Emilyland,20.900000000000002,980.5415999999999,No,No,No,No,Yes,Soy,No,1647.65,John Martinez
+1989,East Xavierport,23.899999999999995,797.01136,No,No,No,No,Yes,Soy,No,1748.41,Jennifer Patel
+1990,North Daniel,21.599999999999998,1353.5406,No,No,No,No,No,Maize,No,792.1,Jonathan Gregory
+1990,East Xavierport,23.500000000000007,760.56998,No,No,Yes,No,Yes,Soy,Yes,1739.82,Martha Johnson
+1990,Emilyland,20.60000000000001,925.2407199999999,No,No,Yes,No,Yes,Maize,Yes,935.05,Sandra Thomas
+1991,East Xavierport,23.7,764.44094,No,No,No,No,Yes,Soy,No,1744.47,Robert George
+1991,North Daniel,21.399999999999995,1418.5214199999998,No,No,No,No,No,Soy,No,1493.71,Jonathan Gregory
+1991,Emilyland,20.500000000000004,1072.30164,No,No,No,No,Yes,Wheat,No,1331.78,Sandra Thomas
+1992,East Xavierport,23.600000000000005,807.4914,No,No,Yes,No,Yes,Maize,Yes,1042.23,Alexander Johnson
+1992,North Daniel,21.5,1406.8298,No,No,No,No,No,Maize,No,793.5,Jonathan Gregory
+1992,Emilyland,20.100000000000005,1191.55972,No,No,Yes,Yes,Yes,Maize,Yes,914.63,Sandra Thomas
+1993,East Xavierport,23.500000000000007,801.6595599999999,No,No,No,No,Yes,Wheat,No,1438.16,Alexander Johnson
+1993,North Daniel,21.5,1497.44176,No,No,No,No,No,Soy,No,1493.67,Kelly George
+1993,Emilyland,20.4,1134.3004999999998,No,No,Yes,No,Yes,Wheat,Yes,1325.23,Nicole Wall
+1994,East Xavierport,24.200000000000003,825.21044,Yes,Yes,No,No,Yes,Wheat,No,1457.11,Alexander Johnson
+1994,North Daniel,21.700000000000003,1379.6898999999999,No,No,No,No,No,Wheat,No,1191.72,Natalie Branch
+1994,Emilyland,20.799999999999997,1143.87122,No,No,No,No,Yes,Maize,No,946.3,Nicole Wall
+1995,East Xavierport,23.7,764.93116,No,No,No,No,Yes,Soy,No,1743.29,Martin Rivera
+1995,North Daniel,21.900000000000002,1549.27046,No,No,No,No,No,Wheat,No,1189.68,Mary Torres
+1995,Emilyland,21.100000000000005,1173.6705,No,No,No,No,Yes,Wheat,No,1357.7,Tiffany Decker
+1996,Emilyland,21.100000000000005,973.0994,Yes,Yes,No,No,Yes,Soy,No,1658.93,Tiffany Decker
+1996,East Xavierport,23.7,878.0399,No,No,No,Yes,Yes,Soy,No,1744.3,Martin Rivera
+1996,North Daniel,22.299999999999997,1656.49148,No,No,No,Yes,No,Soy,Yes,1484.35,Stephen Nelson
+1997,Emilyland,21.3,1087.3613,Yes,Yes,No,No,Yes,Maize,No,964.67,Tiffany Decker
+1997,East Xavierport,24.099999999999998,829.9196,No,No,Yes,No,Yes,Maize,Yes,1053.26,Joe James
+1997,North Daniel,21.900000000000002,1599.1814599999998,No,No,No,Yes,No,Maize,No,789.63,Richard Gardner
+1998,Emilyland,21.100000000000005,1231.1507,No,No,No,Yes,Yes,Wheat,No,1355.3,Tiffany Decker
+1998,East Xavierport,23.899999999999995,851.8017,No,No,No,No,Yes,Soy,No,1750.1,Joe James
+1998,North Daniel,21.900000000000002,1571.43958,No,No,No,Yes,No,Maize,No,789.62,Richard Gardner
+1999,East Xavierport,24.0,843.73974,No,No,No,No,Yes,Soy,No,1752.85,Christina Nichols
+1999,North Daniel,21.999999999999996,1560.1315,Yes,Yes,No,No,No,Maize,No,788.56,Sylvia Hanson
+1999,Emilyland,21.000000000000007,1042.54046,No,No,No,No,Yes,Soy,No,1652.88,Mary Day
+2000,North Daniel,21.999999999999996,1435.42004,Yes,Yes,No,No,No,Wheat,No,1187.74,Sylvia Hanson
+2000,East Xavierport,24.300000000000004,816.1908999999999,Yes,Yes,No,No,Yes,Soy,No,1759.75,Christina Nichols
+2000,Emilyland,21.2,1215.04964,Yes,No,No,Yes,Yes,Wheat,No,1361.01,Samantha Murphy
+2001,North Daniel,21.999999999999996,1856.9914599999997,No,No,No,Yes,No,Maize,No,788.45,Michael Norris
+2001,East Xavierport,24.099999999999998,967.24978,No,No,No,Yes,Yes,Maize,No,1054.31,Stephen Tran DDS
+2001,Emilyland,21.000000000000007,1349.68996,No,No,No,Yes,Yes,Soy,No,1654.99,Samantha Murphy
+2002,Emilyland,21.3,1368.7907599999999,Yes,No,No,Yes,Yes,Soy,No,1664.23,James Schneider
+2002,North Daniel,22.200000000000003,1641.42166,No,No,No,Yes,No,Maize,No,785.97,Michael Norris
+2002,East Xavierport,24.300000000000004,857.73006,Yes,No,No,Yes,Yes,Wheat,No,1459.55,Tammy Carlson
+2003,East Xavierport,24.200000000000003,990.14026,No,No,No,Yes,Yes,Maize,No,1056.86,William Keller
+2003,Emilyland,21.399999999999995,1135.1310799999999,Yes,Yes,No,No,Yes,Maize,No,969.03,Diana Elliott
+2003,North Daniel,21.900000000000002,1521.08154,No,No,No,No,No,Soy,No,1488.79,Renee Moore
+2004,North Daniel,21.900000000000002,1721.9015599999998,No,No,No,Yes,No,Soy,No,1489.38,Bonnie Sanders
+2004,East Xavierport,24.099999999999998,1036.0406,Yes,No,No,Yes,Yes,Soy,No,1754.03,Elizabeth Castro
+2004,Emilyland,21.3,1201.07964,Yes,No,No,Yes,Yes,Wheat,No,1363.5,Misty Neal
+2005,Emilyland,21.399999999999995,1150.89178,Yes,Yes,No,No,Yes,Maize,No,968.42,Drew Barry
+2005,North Daniel,22.1,1841.23076,No,No,No,Yes,No,Soy,Yes,1487.11,Scott Clark
+2005,East Xavierport,24.200000000000003,934.7911199999999,Yes,No,No,Yes,Yes,Soy,No,1756.3,Amy Brown
+2006,Emilyland,21.399999999999995,1441.9097399999998,Yes,No,No,Yes,Yes,Maize,No,970.13,Ashley Sims
+2006,East Xavierport,24.400000000000002,1064.51146,Yes,No,No,Yes,Yes,Maize,No,1061.45,Deanna Alvarado
+2006,North Daniel,22.200000000000003,1562.38194,No,No,No,Yes,No,Wheat,No,1185.23,Karen Smith
+2007,Emilyland,21.3,1444.5996,Yes,No,No,Yes,Yes,Wheat,No,1364.67,Stephanie Johnson
+2007,North Daniel,22.399999999999995,1513.34978,No,Yes,No,No,No,Maize,No,783.27,Robert Reynolds
+2007,East Xavierport,24.400000000000002,1013.5793799999999,Yes,No,No,Yes,Yes,Maize,No,1061.67,Caroline Mcgrath
+2008,East Xavierport,24.1,984.12,No,No,No,Yes,Yes,Wheat,No,1453.44,Preston Price
+2008,North Daniel,22.8,1735.49,No,No,No,Yes,No,Soy,Yes,1477.04,Courtney Peck
+2008,Emilyland,21.0,1455.13,No,No,No,Yes,Yes,Maize,Yes,954.79,Michael Roth
+2009,East Xavierport,24.4,1081.44,Yes,No,No,Yes,Yes,Soy,No,1761.42,William Herrera
+2009,North Daniel,22.4,1713.95,No,No,No,Yes,No,Maize,No,782.88,Courtney Peck
+2009,Emilyland,22.0,1374.77,Yes,No,No,Yes,Yes,Wheat,No,1392.56,Michelle Mills
+2010,East Xavierport,24.4,1038.96,Yes,No,No,Yes,Yes,Soy,No,1762.08,Tamara Maldonado
+2010,North Daniel,22.7,1779.4,No,No,No,Yes,No,Maize,Yes,778.65,Courtney Peck
+2010,Emilyland,22.0,1395.83,Yes,No,No,Yes,Yes,Maize,No,991.71,Keith Roberts
+2011,East Xavierport,24.7,1112.95,Yes,No,No,Yes,Yes,Soy,No,1766.61,Tamara Maldonado
+2011,North Daniel,22.6,1752.71,No,No,No,Yes,No,Maize,Yes,780.1,James Bowman
+2011,Emilyland,21.6,1383.81,Yes,No,No,Yes,Yes,Wheat,No,1377.38,Amanda Oliver
+2012,Emilyland,22.1,1600.88,Yes,No,No,Yes,Yes,Soy,No,1694.36,Summer Hobbs
+2012,East Xavierport,24.8,1077.76,Yes,No,No,Yes,Yes,Wheat,No,1468.61,Tamara Maldonado
+2012,North Daniel,22.4,1857.22,No,No,No,Yes,No,Wheat,Yes,1182.77,James Bowman
+2013,North Daniel,22.3,1857.11,No,No,No,Yes,No,Wheat,Yes,1184.44,Mary Reyes
+2013,East Xavierport,24.7,1105.13,Yes,No,No,Yes,Yes,Soy,No,1766.74,Jason Ritter
+2013,Emilyland,22.1,1658.61,Yes,No,No,Yes,Yes,Soy,No,1696.32,Summer Hobbs
+2014,East Xavierport,24.7,1145.33,Yes,No,No,Yes,Yes,Wheat,No,1467.21,Jason Ritter
+2014,North Daniel,22.7,1897.66,No,No,No,Yes,No,Maize,Yes,778.69,Susan Wright
+2014,Emilyland,22.4,1621.24,Yes,No,No,Yes,Yes,Soy,No,1706.42,Summer Hobbs
+2015,East Xavierport,25.0,1061.37,Yes,No,No,Yes,Yes,Maize,No,1073.32,Jason Ritter
+2015,North Daniel,22.9,1898.45,No,No,No,Yes,No,Wheat,Yes,1173.93,Susan Wright
+2015,Emilyland,21.9,1593.29,Yes,No,No,Yes,Yes,Soy,No,1688.33,Summer Hobbs
+2016,Emilyland,22.2,1639.3,Yes,No,No,Yes,Yes,Soy,No,1697.48,Monica Freeman
+2016,East Xavierport,24.6,1137.57,Yes,No,No,Yes,Yes,Wheat,No,1465.73,Nathan Boyd MD
+2016,North Daniel,22.7,1888.28,No,No,No,Yes,No,Wheat,Yes,1178.79,Brandon Neal
+2017,Emilyland,22.4,1622.3,Yes,No,No,Yes,Yes,Maize,No,1006.04,Ronald Young
+2017,North Daniel,22.9,1843.68,No,No,No,Yes,No,Maize,Yes,775.62,James Wagner
+2017,East Xavierport,25.3,1203.72,Yes,No,No,Yes,Yes,Maize,No,1077.91,Samuel Lee
+2018,East Xavierport,24.8,1130.78,Yes,No,No,Yes,Yes,Wheat,No,1469.45,Melanie Ray
+2018,Emilyland,22.2,1746.55,Yes,No,No,Yes,Yes,Soy,No,1700.81,Ronald Young
+2018,North Daniel,22.8,2054.21,No,No,No,Yes,No,Wheat,Yes,1175.85,James Wagner
+2019,North Daniel,23.2,2097.95,No,No,No,Yes,No,Wheat,Yes,1169.24,James Wagner
+2019,Emilyland,22.2,1663.39,Yes,No,No,Yes,Yes,Wheat,No,1399.73,Megan Ward
+2019,East Xavierport,25.1,1176.49,Yes,No,No,Yes,Yes,Maize,No,1073.93,Mike Herrera

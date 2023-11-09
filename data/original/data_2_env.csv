@@ -1,0 +1,37 @@
+Year,Location,Avg Min Temp *C,Yr Rain mm,Heat Wave,Dry Spell,Cold Wave,Wet Spell
+2008,East Xavierport,24.1,984.12,N,N,N,Y
+2008,North Daniel,22.8,1735.49,N,N,N,Y
+2008,Emilyland,21.0,1455.13,N,no,N,Y
+2009,East Xavierport,24.4,1081.44,Y,N,N,Y
+2009,North Daniel,22.4,1713.95,N,n,N,Y
+2009,Emilyland,22.0,1374.77,Y,N,N,Y
+2010,East Xavierport,24.4,1038.96,Y,N,N,Y
+2010,North Daniel,22.7,1779.4,N,N,N,Y
+2010,Emilyland,22.0,1395.83,Y,N,N,Y
+2011,East Xavierport,24.7,1112.95,Y,N,N,Y
+2011,North Daniel,22.6,1752.71,N,N,N,Y
+2011,Emilyland,21.6,1383.81,Y,N,N,Y
+2012,Emilyland,22.1,1600.88,Y,N,N,Y
+2012,East Xavierport,24.8,1077.76,Y,N,N,Y
+2012,North Daniel,22.4,1857.22,N,N,N,Y
+2013,North Daniel,22.3,1857.11,N,N,N,Y
+2013,East Xavierport,24.7,1105.13,Y,N,N,Y
+2013,Emilyland,22.1,1658.61,Y,N,N,Y
+2014,East Xavierport,24.7,1145.33,Y,N,N,Y
+2014,North Daniel,22.7,1897.66,N,N,N,Y
+2014,Emilyland,22.4,1621.24,Y,N,N,Y
+2015,East Xavierport,25.0,1061.37,Y,N,N,Y
+2015,North Daniel,22.9,1898.45,N,N,N,Y
+2015,Emilyland,21.9,1593.29,Y,N,N,Y
+2016,Emilyland,22.2,1639.3,Y,N,N,Y
+2016,East Xavierport,24.6,1137.57,Y,N,N,Y
+2016,North Daniel,22.7,1888.28,N,N,N,Yes
+2017,Emilyland,22.4,1622.3,Y,N,N,Y
+2017,North Daniel,22.9,1843.68,N,N,N,Y
+2017,East Xavierport,25.3,1203.72,Y,N,N,Y
+2018,East Xavierport,24.8,1130.78,Y,N,N,Y
+2018,Emilyland,22.2,1746.55,Y,N,N,Y
+2018,North Daniel,22.8,2054.21,N,N,N,Y
+2019,North Daniel,23.2,2097.95,N,N,N,Y
+2019,Emilyland,22.2,1663.39,Y,N,N,Y
+2019,East Xavierport,25.1,1176.49,Y,N,N,Y

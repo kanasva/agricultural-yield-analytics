@@ -1,0 +1,126 @@
+Year,Location,Irrigation,Crop Type,Crop Damage,Yield,Observer
+1980.0,Emilyland,Y,Wheat,1.0,1287.55,Ryan Stewart
+1980.0,East Xavierport,Y,Wheat,1.0,1426.41,Tracie Bell
+1980.0,North Daniel,N,Maize,0.0,796.92,Thomas Miller
+1981.0,Emilyland,Y,Wheat,1.0,1305.04,Sara Nguyen
+1981.0,East Xavierport,Y,Maize,1.0,1031.42,Tracie Bell
+,,N,Soy,0.0,,Tammy Calderon
+1981.0,North Daniel,N,Soy,0.0,1497.04,Tammy Calderon
+1982.0,Emilyland,Y,Soy,1.0,1601.38,Sara Nguyen
+1982.0,East Xavierport,Y,Soy,1.0,1727.6,Amanda Reed
+1982.0,North Daniel,N,Soy,0.0,1496.62,Kevin Henry
+1983.0,Emilyland,Y,Maize,1.0,923.89,Sara Nguyen
+1983.0,East Xavierport,Y,Soy,1.0,1718.95,Emily Bernard
+1983.0,North Daniel,N,Soy,0.0,1493.5,Kevin Henry
+1984.0,Emilyland,Y,Soy,1.0,1624.51,Sara Nguyen
+1984.0,East Xavierport,Y,Wheat,1.0,1427.39,Noah Maldonado
+1984.0,North Daniel,N,Maize,0.0,794.4,Kevin Henry
+1985.0,East Xavierport,Y,Soy,1.0,1730.43,Noah Maldonado
+1985.0,North Daniel,N,Wheat,0.0,1196.51,James Todd
+1985.0,North Daniel,,Wheat,0.0,1196.51,James Todd
+1985.0,Emilyland,Y,Soy,1.0,1614.46,Diana Jones
+1986.0,North Daniel,N,Wheat,0.0,1193.98,Patricia Lopez
+1986.0,Emilyland,Y,Maize,0.0,943.42,Diana Jones
+1986.0,East Xavierport,Y,Wheat,0.0,1442.34,Jennifer Patel
+1987.0,North Daniel,N,Wheat,0.0,1195.31,Patricia Lopez
+1987.0,Emilyland,y,Soy,1.0,1621.46,Karina Newman
+1987.0,East Xavierport,Y,Soy,1.0,1729.5,Jennifer Patel
+1988.0,North Daniel,N,Soy,0.0,1494.91,William Wright
+1988.0,Emilyland,Y,Soy,0.0,1635.82,John Martinez
+1988.0,East Xavierport,Y,Wheat,1.0,1430.95,Jennifer Patel
+1989.0,North Daniel,N,Soy,0.0,1494.45,Jessica Hodges
+1989.0,Emilyland,Y,Soy,0.0,1647.65,John Martinez
+1989.0,East Xavierport,Y,Soy,0.0,1748.41,Jennifer Patel
+1990.0,North Daniel,N,Maize,0.0,792.1,Jonathan Gregory
+1990.0,East Xavierport,Y,Soy,1.0,1739.82,Martha Johnson
+1990.0,Emilyland,Y,Maize,1.0,935.05,Sandra Thomas
+1991.0,East Xavierport,Y,Soy,0.0,1744.47,Robert George
+1991.0,North Daniel,N,Soy,0.0,1493.71,
+1991.0,North Daniel,N,Soy,0.0,1493.71,Jonathan Gregory
+1991.0,Emilyland,Y,Wheat,0.0,1331.78,Sandra Thomas
+1992.0,East Xavierport,Y,Maize,1.0,1042.23,Alexander Johnson
+1992.0,North Daniel,N,Maize,0.0,793.5,Jonathan Gregory
+1992.0,Emilyland,Y,Maize,1.0,914.63,Sandra Thomas
+1993.0,East Xavierport,Y,Wheat,0.0,1438.16,Alexander Johnson
+1993.0,North Daniel,N,Soy,0.0,1493.67,Kelly George
+1993.0,Emilyland,Y,Wheat,1.0,1325.23,Nicole Wall
+1994.0,East Xavierport,Y,Wheat,0.0,1457.11,Alexander Johnson
+1994.0,North Daniel,N,Wheat,0.0,1191.72,Natalie Branch
+1994.0,Emilyland,Y,Maize,0.0,946.3,Nicole Wall
+1995.0,East Xavierport,Y,Soy,0.0,1743.29,Martin Rivera
+1995.0,North Daniel,N,Wheat,0.0,1189.68,Mary Torres
+1995.0,Emilyland,Y,Wheat,0.0,1357.7,Tiffany Decker
+1996.0,Emilyland,Y,Soy,0.0,1658.93,Tiffany Decker
+1996.0,East Xavierport,Y,Soy,0.0,1744.3,Martin Rivera
+1996.0,North Daniel,N,Soy,1.0,1484.35,Stephen Nelson
+1997.0,Emilyland,Y,Maize,0.0,964.67,Tiffany Decker
+1997.0,East Xavierport,Y,Maize,1.0,1053.26,Joe James
+1997.0,North Daniel,N,Maize,0.0,789.63,Richard Gardner
+1998.0,Emilyland,Y,Wheat,0.0,1355.3,Tiffany Decker
+1998.0,East Xavierport,Y,Soy,0.0,1750.1,Joe James
+1998.0,North Daniel,N,Maize,0.0,789.62,Richard Gardner
+1999.0,East Xavierport,Y,Soy,0.0,1752.85,Christina Nichols
+1999.0,North Daniel,N,Maize,0.0,788.56,Sylvia Hanson
+1999.0,Emilyland,Y,Soy,0.0,1652.88,Mary Day
+2000.0,North Daniel,N,Wheat,0.0,1187.74,Sylvia Hanson
+2000.0,East Xavierport,Y,Soy,0.0,1759.75,Christina Nichols
+2000.0,Emilyland,Y,Wheat,0.0,1361.01,Samantha Murphy
+2001.0,North Daniel,N,Maize,0.0,788.45,Michael Norris
+2001.0,East Xavierport,Y,Maize,0.0,1054.31,Stephen Tran DDS
+2001.0,Emilyland,Y,Soy,0.0,1654.99,Samantha Murphy
+2002.0,Emilyland,Y,Soy,0.0,1664.23,James Schneider
+2002.0,North Daniel,N,Maize,0.0,785.97,Michael Norris
+2002.0,East Xavierport,Y,Wheat,0.0,1459.55,Tammy Carlson
+2003.0,East Xavierport,Y,Maize,0.0,1056.86,William Keller
+2003.0,Emilyland,Y,Maize,0.0,969.03,Diana Elliott
+2003.0,North Daniel,N,Soy,0.0,1488.79,Renee Moore
+2004.0,North Daniel,N,Soy,0.0,1489.38,Bonnie Sanders
+2004.0,East Xavierport,Y,Soy,0.0,1754.03,Elizabeth Castro
+2004.0,Emilyland,Y,Wheat,0.0,1363.5,Misty Neal
+2005.0,Emilyland,Y,Maize,,968.42,Drew Barry
+2005.0,Emilyland,Y,Maize,0.0,968.42,Drew Barry
+2005.0,North Daniel,N,Soy,1.0,1487.11,Scott Clark
+2005.0,East Xavierport,1,Soy,0.0,1756.3,Amy Brown
+2006.0,Emilyland,Y,Maize,0.0,970.13,Ashley Sims
+2006.0,East Xavierport,Y,Maize,0.0,1061.45,Deanna Alvarado
+2006.0,North Daniel,N,Wheat,0.0,1185.23,Karen Smith
+2007.0,Emilyland,Y,Wheat,0.0,1364.67,Stephanie Johnson
+2007.0,North Daniel,N,Maize,0.0,783.27,Robert Reynolds
+2007.0,North Daniel,N,,0.0,783.27,Robert Reynolds
+2007.0,East Xavierport,Y,Maize,0.0,1061.67,Caroline Mcgrath
+2008.0,East Xavierport,Y,Wheat,0.0,1453.44,Preston Price
+2008.0,North Daniel,N,Soy,1.0,1477.04,Courtney Peck
+2008.0,Emilyland,Y,Maize,1.0,954.79,Michael Roth
+2009.0,East Xavierport,Y,Soy,0.0,1761.42,William Herrera
+2009.0,North Daniel,N,Maize,0.0,782.88,Courtney Peck
+2009.0,Emilyland,Y,Wheat,0.0,1392.56,Michelle Mills
+2010.0,East Xavierport,Y,Soy,0.0,1762.08,Tamara Maldonado
+2010.0,North Daniel,N,Maize,1.0,778.65,Courtney Peck
+2010.0,Emilyland,Y,Maize,0.0,991.71,Keith Roberts
+2011.0,East Xavierport,Y,Soy,0.0,1766.61,Tamara Maldonado
+2011.0,North Daniel,N,Maize,1.0,780.1,James Bowman
+2011.0,Emilyland,Y,Wheat,0.0,1377.38,Amanda Oliver
+2012.0,Emilyland,Y,Soy,0.0,1694.36,Summer Hobbs
+2012.0,East Xavierport,Y,Wheat,0.0,1468.61,Tamara Maldonado
+2012.0,North Daniel,N,Wheat,1.0,1182.77,James Bowman
+2013.0,North Daniel,N,Wheat,1.0,1184.44,Mary Reyes
+2013.0,East Xavierport,Y,Soy,0.0,1766.74,Jason Ritter
+2013.0,Emilyland,Y,Soy,0.0,1696.32,Summer Hobbs
+2014.0,East Xavierport,Y,Wheat,0.0,1467.21,Jason Ritter
+2014.0,North Daniel,N,Maize,1.0,778.69,Susan Wright
+2014.0,Emilyland,Y,Soy,0.0,1706.42,Summer Hobbs
+2015.0,East Xavierport,Y,Maize,0.0,1073.32,Jason Ritter
+2015.0,North Daniel,N,Wheat,1.0,1173.93,Susan Wright
+2015.0,Emilyland,Y,Soy,0.0,1688.33,Summer Hobbs
+2016.0,Emilyland,Y,Soy,0.0,1697.48,Monica Freeman
+2016.0,East Xavierport,Y,Wheat,0.0,1465.73,Nathan Boyd MD
+2016.0,North Daniel,N,Wheat,1.0,1178.79,Brandon Neal
+2017.0,Emilyland,Y,Maize,0.0,1006.04,Ronald Young
+2017.0,North Daniel,N,Maize,1.0,775.62,James Wagner
+2017.0,East Xavierport,Y,Maize,0.0,1077.91,Samuel Lee
+2018.0,East Xavierport,Y,Wheat,0.0,1469.45,Melanie Ray
+2018.0,Emilyland,Y,Soy,0.0,1700.81,Ronald Young
+2018.0,North Daniel,no,Wheat,1.0,1175.85,James Wagner
+2019.0,North Daniel,N,Wheat,1.0,1169.24,James Wagner
+2019.0,Emilyland,Y,Wheat,0.0,1399.73,Megan Ward
+2019.0,East Xavierport,Y,Maize,0.0,1073.93,Mike Herrera
